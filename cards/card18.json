@@ -1,0 +1,16 @@
+{
+    "id":"18",
+    "name":"Сделка недели",
+    "description":"Перемещает игрока на любое поле собствености что бы екпить ее или выставить на аукцион или повысить rentlvl на +1",
+    "RentForOwnerShip":"0",
+    "RentForStreet":"0",
+    "giveMoney":"0",
+    "nextPay":"0",
+    "RentlvlPay":"+1",
+    "GoTo":"ownership",
+    "ResetLvlRent":"0",
+    "payment":"0",
+    "neigbords":"-1",
+    "taks":"50",
+    "change":0
+} 

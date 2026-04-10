@@ -1,0 +1,16 @@
+{
+    "id":"4",
+    "name":"на карте",
+    "description":"Повышение ренты для улицы на +1",
+    "RentForOwnerShip":"0",
+    "RentForStreet":"+1",
+    "giveMoney":"0",
+    "nextPay":"0",
+    "RentlvlPay":"0",
+    "GoTo":"0",
+    "ResetLvlRent":"0",
+    "payment":"0",
+    "neigbords":"-1",
+    "taks":"50",
+    "change":0
+} 

@@ -1,0 +1,14 @@
+{
+    "id":"18",
+    "name":"Заберите свое",
+    "description":"Отправляет другого игрока в тюрму",
+    "RentForOwnerShip":"0",
+    "RentForStreet":"0",
+    "giveMoney":"0",
+    "nextPay":"0",
+    "RentlvlPay":"0",
+    "GoTo":"jail",
+    "ResetLvlRent":"0",
+    "payment":"0",
+    "change":0
+} 

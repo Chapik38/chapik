@@ -1,0 +1,16 @@
+{
+    "id":"15",
+    "name":"При деньгах",
+    "description":"обмен собственостью",
+    "RentForOwnerShip":"0",
+    "RentForStreet":"0",
+    "giveMoney":"0",
+    "nextPay":"0",
+    "RentlvlPay":"0",
+    "GoTo":"0",
+    "ResetLvlRent":"0",
+    "payment":"0",
+    "neigbords":"-1",
+    "taks":"50",
+    "change":1
+} 

@@ -1,0 +1,16 @@
+{
+    "id":"11",
+    "name":"Атракцион с ветерком",
+    "description":"rentlvl +1 для всей стороны поля",
+    "RentForOwnerShip":"0",
+    "RentForStreet":"",
+    "giveMoney":"0",
+    "nextPay":"0",
+    "RentlvlPay":"0",
+    "GoTo":"0",
+    "ResetLvlRent":"0",
+    "payment":"0",
+    "neigbords":"-1",
+    "taks":"50",
+    "change":0
+} 

@@ -1,0 +1,16 @@
+{
+    "id":"2",
+    "name":"на бегу",
+    "description":"Следующие 2 платежа будут приняты в размере ренты 1 уровня",
+    "RentForOwnerShip":"1",
+    "RentForStreet":"0",
+    "giveMoney":"0",
+    "nextPay":"2",
+    "RentlvlPay":"1",
+    "GoTo":"0",
+    "ResetLvlRent":"0",
+    "payment":"0",
+    "neigbords":"-1",
+    "taks":"50",
+    "change":0
+} 

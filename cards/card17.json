@@ -1,0 +1,16 @@
+{
+    "id":"17",
+    "name":"мертвая пробка",
+    "description":"Перемещает всех игроков на бесплатную паркуовку",
+    "RentForOwnerShip":"0",
+    "RentForStreet":"0",
+    "giveMoney":"0",
+    "nextPay":"0",
+    "RentlvlPay":"0",
+    "GoTo":"",
+    "ResetLvlRent":"0",
+    "payment":"0",
+    "neigbords":"-1",
+    "taks":"50",
+    "change":0
+} 

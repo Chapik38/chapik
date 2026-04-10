@@ -1,0 +1,16 @@
+{
+    "id":"21",
+    "name":"Дорожный налог",
+    "description":"уплата 50м за каждую собственость",
+    "RentForOwnerShip":"0",
+    "RentForStreet":"0",
+    "giveMoney":"0",
+    "nextPay":"0",
+    "RentlvlPay":"0",
+    "GoTo":"0",
+    "ResetLvlRent":"0",
+    "payment":"0",
+    "neigbords":"0",
+    "taks":"50",
+    "change":0
+} 

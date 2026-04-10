@@ -1,0 +1,18 @@
+{
+    "id":"0",
+    "name":"123",
+    "description":"123",
+    "RentForOwnerShip":"+-1",
+    "RentForStreetRY":"0",
+    "RentForStreetGB":"0",
+    "RentForStreetBW":"0",
+    "RentForStreetPO":"0",
+    "RentForStreet":"+-1",
+    "giveMoney":"+-200",
+    "nextPay":"2",
+    "RentlvlPay":"1",
+    "GoTo":"jail, parking, ownership",
+    "ResetLvlRent":"1",
+    "payment":"50",
+    "change":1
+} 

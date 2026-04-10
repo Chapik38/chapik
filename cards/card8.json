@@ -1,0 +1,16 @@
+{
+    "id":"8",
+    "name":"Любовь витает в воздухе",
+    "description":"+200 монет на баланс",
+    "RentForOwnerShip":"0",
+    "RentForStreet":"0",
+    "giveMoney":"+200",
+    "nextPay":"0",
+    "RentlvlPay":"0",
+    "GoTo":"0",
+    "ResetLvlRent":"0",
+    "payment":"0",
+    "neigbords":"-1",
+    "taks":"50",
+    "change":0
+} 
